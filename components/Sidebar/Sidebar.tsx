@@ -19,8 +19,11 @@ export const Sidebar = () => {
         {
             title:"Notes",
             value:"#notes"
+        },
+        {
+            title:"Notes",
+            value:"#notes"
         }
-    
     ]
     return (
         <aside className="lg:h-screen lg:w-1/4 bg-white shadow-lg px-[30px] py-5 hidden lg:block">
